@@ -1,21 +1,46 @@
+
 body{
   margin: 0;
   text-align: center;
 }
+
 h1{
   margin-top: 0;
-  font-family: 'Ephesis', cursive;
-}
-
-.top-container{
-  background-color: #E4F9F5;
-}
-.middle-container{
+  font-family: Sacramento;
+  font-size: 500%;
 
 }
-.top-cloud{
+p{
+  font-size: 218.75%;
+  font-weight: bold;
+  font-family: Shalimar;
 
 }
-.bottom-cloud{
-  position: absolute;
+
+.top-div{
+  background-color: #98DDCA;
+
+  background-size: cover;
+  align-items: center;
+  position:  relative;
+  padding-top: 100px;
+  height: 500px;
+
+}
+.middle-div{
+  background-color: #F4BEEE;
+  background-size: cover;
+  align-items: center;
+  position:  relative;
+  height:600px;
+
+
+}
+.bottom-div{
+  background-color: yellow;
+}
+.quote{
+  color: white;
+
+  padding-top: 15%;
 }

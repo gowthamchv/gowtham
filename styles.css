@@ -11,7 +11,7 @@ h1{
 
 }
 p{
-  font-size: 218.75%;
+  font-size: 350%;
   font-weight: bold;
   font-family: Shalimar;
 
@@ -19,20 +19,20 @@ p{
 
 .top-div{
   background-color: #98DDCA;
-
-  background-size: cover;
+  padding-top: 100px;
+  /*background-size: cover;*/
   align-items: center;
   position:  relative;
-  padding-top: 100px;
-  height: 500px;
+
+
 
 }
 .middle-div{
   background-color: #F4BEEE;
-  background-size: cover;
+  /*background-size: cover;*/
   align-items: center;
-  position:  relative;
-  height:600px;
+  /*position:  relative;*/
+  /*height:600px;*/
 
 
 }

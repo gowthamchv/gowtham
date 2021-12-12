@@ -1,5 +1,11 @@
 body{
   text-align: center;
-  background-color: #5584AC;
-  
+  /*background-color: #5584AC;*/
+
+}
+h2{
+  color: #9145B6;
+}
+h3{
+  color:#F999B7;
 }

@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #FBFFE2;
+}
+.middle-div{
+  /*background-color: #F4BEEE;*/
+  /*background-size: cover;*/
+  align-items: center;
+  /*position:  relative;*/
+  /*height:600px;*/
+  font-family: 'Kaushan Script', cursive;
+  font-size: 125%;
+  color: #151965;
+  /*color: #009DAE;*/
+  padding: 20px 0 20px 0;
+
+}
+.qualifications{
+  background-color: #064663;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  padding: 20px 0 20px 0;
+  margin: 0 15% 0 15%;
+  font-size: 115%;
+  align-items: center;
+
+}
+.Quotations{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 125%;
+  color: #009DAE;
+}
+.bottom-div{
+  background-color: #D3E4CD;
+  padding-bottom: 30px;
+
+}
+h3{
+  font-family: Shalimar;
+  font-size: 200%;
+  font-weight: bold;
+
+}
+.topnav {
+  background-color: #04AA6D;
+  align-items: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  opacity: 0.50;
+
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
